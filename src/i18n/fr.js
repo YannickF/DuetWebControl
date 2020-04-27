@@ -411,7 +411,7 @@ export default {
 		},
 		files: {
 			caption: 'Gestion de Fichiers',
-			jobs: 'Travails',
+			jobs: 'Travaux',
 			filaments: 'Filaments',
 			macros: 'Macros',
 			menu: 'Affichage',
